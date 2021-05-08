@@ -1,0 +1,6 @@
+sys
+pygame
+os
+pigpio
+numpy
+cv2
